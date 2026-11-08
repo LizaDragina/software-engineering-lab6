@@ -1,0 +1,8 @@
+Package: mylibrary-dev
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Student ABD-51 <student@university.edu>
+Depends: mylibrary (= 1.0.0)
+Section: devel
+Priority: optional
+Description: Development headers for MyLibrary.

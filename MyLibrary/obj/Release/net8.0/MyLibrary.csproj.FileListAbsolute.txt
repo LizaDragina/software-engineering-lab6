@@ -1,0 +1,11 @@
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MyLibrary\bin\Release\net8.0\MyLibrary.deps.json
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MyLibrary\bin\Release\net8.0\MyLibrary.dll
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MyLibrary\bin\Release\net8.0\MyLibrary.pdb
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MyLibrary\obj\Release\net8.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MyLibrary\obj\Release\net8.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MyLibrary\obj\Release\net8.0\MyLibrary.AssemblyInfo.cs
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MyLibrary\obj\Release\net8.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MyLibrary\obj\Release\net8.0\MyLibrary.dll
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MyLibrary\obj\Release\net8.0\refint\MyLibrary.dll
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MyLibrary\obj\Release\net8.0\MyLibrary.pdb
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MyLibrary\obj\Release\net8.0\ref\MyLibrary.dll

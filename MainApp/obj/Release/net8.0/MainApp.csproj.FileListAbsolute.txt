@@ -1,0 +1,17 @@
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\obj\Release\net8.0\MainApp.csproj.AssemblyReference.cache
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\obj\Release\net8.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\obj\Release\net8.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\obj\Release\net8.0\MainApp.AssemblyInfo.cs
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\obj\Release\net8.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\bin\Release\net8.0\MainApp.exe
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\bin\Release\net8.0\MainApp.deps.json
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\bin\Release\net8.0\MainApp.runtimeconfig.json
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\bin\Release\net8.0\MainApp.dll
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\bin\Release\net8.0\MainApp.pdb
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\bin\Release\net8.0\MyLibrary.dll
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\obj\Release\net8.0\MainApp.csproj.Up2Date
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\obj\Release\net8.0\MainApp.dll
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\obj\Release\net8.0\refint\MainApp.dll
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\obj\Release\net8.0\MainApp.pdb
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\obj\Release\net8.0\MainApp.genruntimeconfig.cache
+C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\obj\Release\net8.0\ref\MainApp.dll

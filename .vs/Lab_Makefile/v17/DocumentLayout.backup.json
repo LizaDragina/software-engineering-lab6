@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B902A4-C38D-4E86-8BEC-B50F059900E7}|MainApp\\MainApp.csproj|c:\\users\\lizav\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u0431\u0434(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\lab_makefile\\mainapp\\cmakelists.txt||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C5B902A4-C38D-4E86-8BEC-B50F059900E7}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\cmakelists.txt||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5E4CB6-53F4-44A4-BBF1-5FD90D8632AD}|MyLibrary\\MyLibrary.csproj|c:\\users\\lizav\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u0431\u0434(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\lab_makefile\\mylibrary\\cmakelists.txt||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DA5E4CB6-53F4-44A4-BBF1-5FD90D8632AD}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\cmakelists.txt||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B902A4-C38D-4E86-8BEC-B50F059900E7}|MainApp\\MainApp.csproj|c:\\users\\lizav\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u0431\u0434(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\lab_makefile\\mainapp\\makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C5B902A4-C38D-4E86-8BEC-B50F059900E7}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B902A4-C38D-4E86-8BEC-B50F059900E7}|MainApp\\MainApp.csproj|c:\\users\\lizav\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u0431\u0434(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\lab_makefile\\mainapp\\mainapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5B902A4-C38D-4E86-8BEC-B50F059900E7}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\mainapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5E4CB6-53F4-44A4-BBF1-5FD90D8632AD}|MyLibrary\\MyLibrary.csproj|c:\\users\\lizav\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u0431\u0434(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\lab_makefile\\mylibrary\\makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DA5E4CB6-53F4-44A4-BBF1-5FD90D8632AD}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5E4CB6-53F4-44A4-BBF1-5FD90D8632AD}|MyLibrary\\MyLibrary.csproj|c:\\users\\lizav\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u0431\u0434(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\lab_makefile\\mylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5E4CB6-53F4-44A4-BBF1-5FD90D8632AD}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B902A4-C38D-4E86-8BEC-B50F059900E7}|MainApp\\MainApp.csproj|c:\\users\\lizav\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0430\u0431\u0434(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\lab_makefile\\mainapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B902A4-C38D-4E86-8BEC-B50F059900E7}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\MainApp\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "MainApp\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\MainApp\\CMakeLists.txt",
+              "RelativeToolTip": "MainApp\\CMakeLists.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-13T09:55:40.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\MyLibrary\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "MyLibrary\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\MyLibrary\\CMakeLists.txt",
+              "RelativeToolTip": "MyLibrary\\CMakeLists.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-13T09:55:08.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\MainApp\\Makefile",
+              "RelativeDocumentMoniker": "MainApp\\Makefile",
+              "ToolTip": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\MainApp\\Makefile",
+              "RelativeToolTip": "MainApp\\Makefile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-13T09:41:03.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\MyLibrary\\Makefile",
+              "RelativeDocumentMoniker": "MyLibrary\\Makefile",
+              "ToolTip": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\MyLibrary\\Makefile",
+              "RelativeToolTip": "MyLibrary\\Makefile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-13T09:40:27.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainApp.csproj",
+              "DocumentMoniker": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\MainApp\\MainApp.csproj",
+              "RelativeDocumentMoniker": "MainApp\\MainApp.csproj",
+              "ToolTip": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\MainApp\\MainApp.csproj",
+              "RelativeToolTip": "MainApp\\MainApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-13T09:39:19.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\MainApp\\Program.cs",
+              "RelativeDocumentMoniker": "MainApp\\Program.cs",
+              "ToolTip": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\MainApp\\Program.cs",
+              "RelativeToolTip": "MainApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:38:21.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\MyLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\lizav\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0410\u0411\u0414(\u043C)-51\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\lab2\\Lab_Makefile\\MyLibrary\\Class1.cs",
+              "RelativeToolTip": "MyLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:36:59.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

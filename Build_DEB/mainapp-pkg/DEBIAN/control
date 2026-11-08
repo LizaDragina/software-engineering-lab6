@@ -1,0 +1,8 @@
+Package: mainapp-pkg
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Student ABD-51 <student@university.edu>
+Depends: dotnet-runtime-8.0, mylibrary (= 1.0.0)
+Section: utils
+Priority: optional
+Description: Main console application for Program Engineering labs.

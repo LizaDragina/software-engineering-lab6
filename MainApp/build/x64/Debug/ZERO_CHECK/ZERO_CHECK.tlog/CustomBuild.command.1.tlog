@@ -1,0 +1,10 @@
+^C:\USERS\LIZAV\ONEDRIVE\РАБОЧИЙ СТОЛ\АБД(М)-51\2 КУРС 1 СЕМЕСТР\ПРОГРАММНАЯ ИНЖЕНЕРИЯ\LAB2\LAB_MAKEFILE\MAINAPP\BUILD\CMAKEFILES\217B7E251DB0BCC930763537D7DB62DF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MainApp" "-BC:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MainApp/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MainApp/build/MainApp.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

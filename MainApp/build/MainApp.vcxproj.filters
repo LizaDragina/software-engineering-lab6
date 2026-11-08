@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\build\CMakeFiles\217b7e251db0bcc930763537d7db62df\MainApp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp\build\CMakeFiles\MainApp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{59DC3B55-360C-36BF-BCF2-752B7D651301}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

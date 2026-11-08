@@ -1,0 +1,24 @@
+^C:\USERS\LIZAV\ONEDRIVE\РАБОЧИЙ СТОЛ\АБД(М)-51\2 КУРС 1 СЕМЕСТР\ПРОГРАММНАЯ ИНЖЕНЕРИЯ\LAB2\LAB_MAKEFILE\MYLIBRARY\BUILD\CMAKEFILES\03ABFF1A06ED5C730CA5E46118D06AA6\MYLIBRARY.RULE
+setlocal
+cd "C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MyLibrary"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+dotnet build -c Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LIZAV\ONEDRIVE\РАБОЧИЙ СТОЛ\АБД(М)-51\2 КУРС 1 СЕМЕСТР\ПРОГРАММНАЯ ИНЖЕНЕРИЯ\LAB2\LAB_MAKEFILE\MYLIBRARY\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MyLibrary" "-BC:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MyLibrary/build" --check-stamp-file "C:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MyLibrary/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

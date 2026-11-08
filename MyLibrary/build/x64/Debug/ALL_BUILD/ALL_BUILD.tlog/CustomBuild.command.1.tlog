@@ -1,0 +1,10 @@
+^C:\USERS\LIZAV\ONEDRIVE\РАБОЧИЙ СТОЛ\АБД(М)-51\2 КУРС 1 СЕМЕСТР\ПРОГРАММНАЯ ИНЖЕНЕРИЯ\LAB2\LAB_MAKEFILE\MYLIBRARY\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MyLibrary" "-BC:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MyLibrary/build" --check-stamp-file "C:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MyLibrary/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

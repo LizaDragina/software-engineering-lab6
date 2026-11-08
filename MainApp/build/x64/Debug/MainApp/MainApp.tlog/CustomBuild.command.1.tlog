@@ -1,0 +1,28 @@
+^C:\USERS\LIZAV\ONEDRIVE\РАБОЧИЙ СТОЛ\АБД(М)-51\2 КУРС 1 СЕМЕСТР\ПРОГРАММНАЯ ИНЖЕНЕРИЯ\LAB2\LAB_MAKEFILE\MAINAPP\BUILD\CMAKEFILES\217B7E251DB0BCC930763537D7DB62DF\MAINAPP.RULE
+setlocal
+cd "C:\Users\lizav\OneDrive\Рабочий стол\АБД(м)-51\2 курс 1 семестр\Программная инженерия\lab2\Lab_Makefile\MainApp"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+dotnet build -c Release "/p:ReferencePath=C:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MainApp/../target/lib"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E make_directory "C:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MainApp/../target/share/man/man1"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E copy "C:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MainApp/mainapp.1" "C:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MainApp/../target/share/man/man1/mainapp.1"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LIZAV\ONEDRIVE\РАБОЧИЙ СТОЛ\АБД(М)-51\2 КУРС 1 СЕМЕСТР\ПРОГРАММНАЯ ИНЖЕНЕРИЯ\LAB2\LAB_MAKEFILE\MAINAPP\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MainApp" "-BC:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MainApp/build" --check-stamp-file "C:/Users/lizav/OneDrive/Рабочий стол/АБД(м)-51/2 курс 1 семестр/Программная инженерия/lab2/Lab_Makefile/MainApp/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
