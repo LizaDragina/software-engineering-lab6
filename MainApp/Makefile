@@ -1,3 +1,4 @@
+# Сценарий сборки основного консольного приложения
 PREFIX = ../target
 BIN_DIR = $(PREFIX)/bin
 EXT_LIB_DIR = ../target/lib
