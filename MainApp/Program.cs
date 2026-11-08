@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Автор: студентка группы АБД(м)-51
+using System;
 using MyLibrary;
 
 class Program
