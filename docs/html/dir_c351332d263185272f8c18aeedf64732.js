@@ -1,0 +1,6 @@
+var dir_c351332d263185272f8c18aeedf64732 =
+[
+    [ ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "_main_app_2obj_2_debug_2net8_80_2_8_n_e_t_core_app_00_version_0av8_80_8_assembly_attributes_8cs.html", null ],
+    [ "MainApp.AssemblyInfo.cs", "_debug_2net8_80_2_main_app_8_assembly_info_8cs.html", null ],
+    [ "MainApp.GlobalUsings.g.cs", "_debug_2net8_80_2_main_app_8_global_usings_8g_8cs.html", null ]
+];
