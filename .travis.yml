@@ -4,21 +4,13 @@ dotnet: 8.0
 
 addons:
   apt:
+    update: true
     packages:
+      - cmake
+      - make
       - doxygen
 
 script:
-  - wc -l test_travis.txt
-  - dotnet build MyLibrary/MyLibrary.csproj -c Release
-  - dotnet build MainApp/MainApp.csproj -c Release
-  - doxygen Doxyfile
-
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $DOCS_TOKEN
-  repo: LizaDragina/software-engineering-lab6.io
-  target_branch: main
-  local_dir: docs/html
-  on:
-    branch: main
+  - cd MyLibrary && cmake -B build -S . && cmake --build build && cd ..
+  - mkdir -p target/lib && cp MyLibrary/bin/Release/net8.0/MyLibrary.dll target/lib/
+  - cd MainApp && cmake -B build -S . && cmake --build build && cd ..

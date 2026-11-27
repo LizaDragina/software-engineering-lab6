@@ -1,21 +1,21 @@
-name: Auto Deploy Doxygen Docs
+name: Automated Build Pipeline
 on: [push]
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Install Doxygen
-        run: sudo apt-get update && sudo apt-get install -y doxygen
-        
-      - name: Generate HTML Docs
-        run: doxygen Doxyfile
-        
-      - name: Deploy to Docs Repository
-        uses: peaceiris/actions-gh-pages@v4
+
+      - name: Install .NET Compiler
+        uses: actions/setup-dotnet@v4
         with:
-          personal_token: ${{ secrets.DOCS_TOKEN }}
-          external_repository: LizaDragina/software-engineering-lab6.io
-          publish_branch: main
-          publish_dir: ./docs/html
+          dotnet-version: 8.0.x
+
+      - name: Install Build Utilities (CMake, Make)
+        run: sudo apt-get update && sudo apt-get install -y cmake make
+
+      - name: Compile Library and Application
+        run: |
+          cd MyLibrary && cmake -B build -S . && cmake --build build && cd ..
+          mkdir -p target/lib && cp MyLibrary/bin/Release/net8.0/MyLibrary.dll target/lib/
+          cd MainApp && cmake -B build -S . && cmake --build build && cd ..
