@@ -15,7 +15,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y cmake make
 
       - name: Compile Library and Application
-       run: |
+        run: |
           rm -rf MyLibrary/build MainApp/build
           cd MyLibrary && cmake -B build -S . && cmake --build build && cd ..
           mkdir -p target/lib && cp MyLibrary/bin/Release/net8.0/MyLibrary.dll target/lib/
