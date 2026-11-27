@@ -5,9 +5,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Check test file
         run: wc -l test_travis.txt
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
       - name: Build C# projects
         run: |
           dotnet build MyLibrary/MyLibrary.csproj -c Release
-          dotnet build MainApp/MainApp.csproj -c Release
+          dotnet build MainApp/MainApp.csproj -c Release /p:ReferencePath=../MyLibrary/bin/Release/net8.0
