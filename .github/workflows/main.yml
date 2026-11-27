@@ -1,20 +1,21 @@
-name: CI Build Check
+name: Auto Deploy Doxygen Docs
 on: [push]
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Check test file
-        run: wc -l test_travis.txt
-
-      - name: Setup .NET
-        uses: actions/setup-dotnet@v4
+      
+      - name: Install Doxygen
+        run: sudo apt-get update && sudo apt-get install -y doxygen
+        
+      - name: Generate HTML Docs
+        run: doxygen Doxyfile
+        
+      - name: Deploy to Docs Repository
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          dotnet-version: 8.0.x
-
-      - name: Build C# projects
-        run: |
-          dotnet build MyLibrary/MyLibrary.csproj -c Release
-          dotnet build MainApp/MainApp.csproj -c Release /p:ReferencePath=../MyLibrary/bin/Release/net8.0
+          personal_token: ${{ secrets.DOCS_TOKEN }}
+          external_repository: LizaDragina/software-engineering-lab6.io
+          publish_branch: main
+          publish_dir: ./docs/html
