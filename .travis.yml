@@ -1,0 +1,12 @@
+language: csharp
+mono: none
+dotnet: 8.0
+
+script:
+  # 1. Проверка наличия тестового файла и подсчет строк в нем (по условию задания)
+  # Если файла test_travis.txt нет, команда wc -l вернет ошибку, и сборка прервется
+  - wc -l test_travis.txt
+
+  # 2. Сборка библиотеки и основного приложения
+  - dotnet build MyLibrary/MyLibrary.csproj -c Release
+  - dotnet build MainApp/MainApp.csproj -c Release
