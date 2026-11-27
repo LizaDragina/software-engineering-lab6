@@ -5,8 +5,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        int result = Calculator.Sum(5, 7);
-        Console.WriteLine($"Результат из библиотеки: 5 + 7 = {result}");
+        int testResult = Calculator.Sum(5, 7);
+        Console.WriteLine($"Результат из библиотеки: 5 + 7 = {testResult}");
         Console.ReadKey();
     }
 }
